@@ -22,17 +22,6 @@ describe("Servers test (with setup and tear-down)", function() {
   })
 
 
-
-
-
-
-
-
-
-});
-
-
-
 //DON'T UNDERSTAND WHERE THIS COMES INTO PLAY OR WHY THESE ELEMNTS ARE BEING PICKED?
 // let curTdList = document.querySelectorAll('#serverTable tbody tr td');
 
